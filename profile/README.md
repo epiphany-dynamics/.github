@@ -31,7 +31,6 @@ We diagnose the operational pain first, then build whatever fixes it. No fixed p
 
 - Website: [epiphanydynamics.ai](https://epiphanydynamics.ai)
 - Email: [patrick@epiphanydynamics.ai](mailto:patrick@epiphanydynamics.ai)
-- Phone: +1-615-862-1514
 - Book a call: [epiphanydynamics.ai/book](https://epiphanydynamics.ai/book)
 
 Based in Nashville, TN. Working with clients across the United States and internationally.
