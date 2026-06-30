@@ -17,11 +17,14 @@
 
 | Repo | What it is |
 |------|------------|
-| [clawd-discord-relay](https://github.com/epiphany-dynamics/clawd-discord-relay) | Discord bot routing messages to Claude Code CLI agents with persistent memory (Qdrant + Mem0). Open source. |
+| [clawd-discord-relay](https://github.com/epiphany-dynamics/clawd-discord-relay) | Discord bot routing messages to Claude Code CLI agents with persistent memory (Qdrant + Mem0). MIT licensed. |
+| [claude-skills-portfolio](https://github.com/epiphany-dynamics/claude-skills-portfolio) | Production Claude Code skills built for real business workflows. MIT licensed. |
 | [epiphany-learn](https://github.com/epiphany-dynamics/epiphany-learn) | Gamified AI education platform — 7 modules, 29 lessons, 300+ quiz questions. Powers [epiphany.help](https://epiphany.help). |
 | [aiforbizcalculator](https://github.com/epiphany-dynamics/aiforbizcalculator) | Free AI automation ROI calculator. Powers [ai4bizcalculator.online](https://ai4bizcalculator.online). |
-| [claude-skills-portfolio](https://github.com/epiphany-dynamics/claude-skills-portfolio) | Production Claude Code skills built for real business workflows. |
+| [ai-quiz-app](https://github.com/epiphany-dynamics/ai-quiz-app) | Interactive AI Readiness Quiz with gamified scoring. Powers [quiz.epiphanydynamics.ai](https://quiz.epiphanydynamics.ai). |
 | [fieldservicestack](https://github.com/epiphany-dynamics/fieldservicestack) | Field Service Stack — software reviews and guides for field service pros. Powers [fieldservicestack.com](https://fieldservicestack.com). |
+
+See the full build list at [epiphanydynamics.ai/portfolio](https://epiphanydynamics.ai/portfolio).
 
 ## How we work
 
