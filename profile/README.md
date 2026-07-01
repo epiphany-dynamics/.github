@@ -17,6 +17,10 @@
 
 | Repo | What it is |
 |------|------------|
+| [supabase-ledger-hardening-kit](https://github.com/epiphany-dynamics/supabase-ledger-hardening-kit) | Reference toolkit for hardening Supabase-backed apps that handle money/credits: concurrency-safe ledger writes, an RLS misconfiguration audit tool, and load tests proving the fix. |
+| [resilient-data-source-kit](https://github.com/epiphany-dynamics/resilient-data-source-kit) | Patterns for resilient external data-source integration: anti-bot scraper backoff/circuit-breaking and fuzzy entity-match confidence scoring. |
+| [call-speaker-diarization-kit](https://github.com/epiphany-dynamics/call-speaker-diarization-kit) | Reference pipeline for identifying which known team member is speaking on a shared phone line, with per-speaker transcript tagging. |
+| [nocode-email-fallback-kit](https://github.com/epiphany-dynamics/nocode-email-fallback-kit) | Fix for the no-code-platform email problem: a webhook-to-Resend fallback plus DNS/deliverability verification tooling. |
 | [clawd-discord-relay](https://github.com/epiphany-dynamics/clawd-discord-relay) | Discord bot routing messages to Claude Code CLI agents with persistent memory (Qdrant + Mem0). MIT licensed. |
 | [claude-skills-portfolio](https://github.com/epiphany-dynamics/claude-skills-portfolio) | Production Claude Code skills built for real business workflows. MIT licensed. |
 | [epiphany-learn](https://github.com/epiphany-dynamics/epiphany-learn) | Gamified AI education platform — 7 modules, 29 lessons, 300+ quiz questions. Powers [epiphany.help](https://epiphany.help). |
