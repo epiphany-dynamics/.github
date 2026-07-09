@@ -11,8 +11,8 @@ Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation
 | Project | Business outcome |
 |---|---|
 | [Official Barbecue Champions Registry](https://github.com/epiphany-dynamics/obcr-registry) | A public registry with winner verification, QR codes, automated PDF certificates, Stripe checkout, and print fulfillment. |
-| [Granite Net Organizer](https://github.com/epiphany-dynamics/granite-organizer) | A Windows desktop tool that replaces manual sorting across large sewer-inspection document and video batches. |
-| [AI Readiness Quiz](https://github.com/epiphany-dynamics/ai-quiz-app) | An interactive assessment that scores business readiness, generates personalized next steps, and captures qualified leads. |
+| [Claude Discord Relay](https://github.com/epiphany-dynamics/clawd-discord-relay) | A persistent multi-agent AI team reachable from Discord, with per-channel routing, resumable sessions, and long-term memory. |
+| [Claude Skills Portfolio](https://github.com/epiphany-dynamics/claude-skills-portfolio) | Production skills built on Anthropic's Agent Skills framework, packaging repeat business workflows into single commands. |
 
 ## Reusable engineering patterns
 
