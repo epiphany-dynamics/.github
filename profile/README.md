@@ -1,3 +1,5 @@
+<img src="./assets/github-org-hero.png" alt="Epiphany Dynamics: Production AI systems for businesses that need them to work" width="100%">
+
 # Production AI systems for businesses that need them to work
 
 Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation, and custom business applications for service businesses.
