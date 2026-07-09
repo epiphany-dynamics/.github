@@ -1,43 +1,37 @@
-# Epiphany Dynamics
+# Production AI systems for businesses that need them to work
 
-**AI automation agency.** We build AI receptionists, agents, and workflow automation that replaces busywork for small and mid-sized businesses.
+Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation, and custom business applications for service businesses.
 
-[epiphanydynamics.ai](https://epiphanydynamics.ai) · [LinkedIn](https://www.linkedin.com/company/epiphanydynamics) · [Crunchbase](https://www.crunchbase.com/organization/epiphany-dynamics)
+[Website](https://epiphanydynamics.ai) · [Free AI Operations Audit](https://epiphanydynamics.ai/book) · [Portfolio](https://epiphanydynamics.ai/portfolio)
 
----
+## Selected client and production systems
 
-## What we ship
+| Project | Business outcome |
+|---|---|
+| [Official Barbecue Champions Registry](https://github.com/epiphany-dynamics/obcr-registry) | A public registry with winner verification, QR codes, automated PDF certificates, Stripe checkout, and print fulfillment. |
+| [Granite Net Organizer](https://github.com/epiphany-dynamics/granite-organizer) | A Windows desktop tool that replaces manual sorting across large sewer-inspection document and video batches. |
+| [AI Readiness Quiz](https://github.com/epiphany-dynamics/ai-quiz-app) | An interactive assessment that scores business readiness, generates personalized next steps, and captures qualified leads. |
 
-- **AI Receptionists** — 24/7 voice agents that book appointments, answer FAQs, and route calls. Live deployments in dental, med spa, home services, and professional services.
-- **Custom Agents** — Claude- and GPT-powered agents that automate sales follow-up, lead qualification, intake, scheduling, and back-office workflows.
-- **Workflow Automation** — n8n, Make.com, and custom integrations that connect your CRM, calendar, billing, and communication stack.
-- **AI-First Web Apps** — Internal tools, calculators, learning platforms, and lead-gen apps. Built fast on modern stacks (Next.js, Astro, Supabase, Vercel).
+## Reusable engineering patterns
 
-## Public projects in this org
+| Project | What it proves |
+|---|---|
+| [Call Speaker Diarization Kit](https://github.com/epiphany-dynamics/call-speaker-diarization-kit) | Voice identification, confidence thresholds, and speaker-tagged call records. |
+| [Supabase Ledger Hardening Kit](https://github.com/epiphany-dynamics/supabase-ledger-hardening-kit) | Concurrency-safe balances, row-level security audits, and load testing for money and credit systems. |
+| [No-Code Email Fallback Kit](https://github.com/epiphany-dynamics/nocode-email-fallback-kit) | Reliable webhook-to-email delivery when no-code platform notifications silently fail. |
+| [Resilient Data Source Kit](https://github.com/epiphany-dynamics/resilient-data-source-kit) | Circuit breaking, backoff, and confidence-scored entity matching for unreliable external data. |
 
-| Repo | What it is |
-|------|------------|
-| [supabase-ledger-hardening-kit](https://github.com/epiphany-dynamics/supabase-ledger-hardening-kit) | Reference toolkit for hardening Supabase-backed apps that handle money/credits: concurrency-safe ledger writes, an RLS misconfiguration audit tool, and load tests proving the fix. |
-| [resilient-data-source-kit](https://github.com/epiphany-dynamics/resilient-data-source-kit) | Patterns for resilient external data-source integration: anti-bot scraper backoff/circuit-breaking and fuzzy entity-match confidence scoring. |
-| [call-speaker-diarization-kit](https://github.com/epiphany-dynamics/call-speaker-diarization-kit) | Reference pipeline for identifying which known team member is speaking on a shared phone line, with per-speaker transcript tagging. |
-| [nocode-email-fallback-kit](https://github.com/epiphany-dynamics/nocode-email-fallback-kit) | Fix for the no-code-platform email problem: a webhook-to-Resend fallback plus DNS/deliverability verification tooling. |
-| [clawd-discord-relay](https://github.com/epiphany-dynamics/clawd-discord-relay) | Discord bot routing messages to Claude Code CLI agents with persistent memory (Qdrant + Mem0). MIT licensed. |
-| [claude-skills-portfolio](https://github.com/epiphany-dynamics/claude-skills-portfolio) | Production Claude Code skills built for real business workflows. MIT licensed. |
-| [epiphany-learn](https://github.com/epiphany-dynamics/epiphany-learn) | Gamified AI education platform — 7 modules, 29 lessons, 300+ quiz questions. Powers [epiphany.help](https://epiphany.help). |
-| [aiforbizcalculator](https://github.com/epiphany-dynamics/aiforbizcalculator) | Free AI automation ROI calculator. Powers [ai4bizcalculator.online](https://ai4bizcalculator.online). |
-| [ai-quiz-app](https://github.com/epiphany-dynamics/ai-quiz-app) | Interactive AI Readiness Quiz with gamified scoring. Powers [quiz.epiphanydynamics.ai](https://quiz.epiphanydynamics.ai). |
-| [fieldservicestack](https://github.com/epiphany-dynamics/fieldservicestack) | Field Service Stack — software reviews and guides for field service pros. Powers [fieldservicestack.com](https://fieldservicestack.com). |
+## What we build
 
-See the full build list at [epiphanydynamics.ai/portfolio](https://epiphanydynamics.ai/portfolio).
+- AI voice assistants for call handling, qualification, and appointment booking
+- CRM, scheduling, email, SMS, and back-office workflow automation
+- Lead-capture tools, assessments, calculators, and customer portals
+- Production-grade web applications and custom AI agents
 
 ## How we work
 
-We diagnose the operational pain first, then build whatever fixes it. No fixed product menu, no upsells. If automation will move the needle, we build it. If it won't, we tell you.
+1. **Audit the operation.** Find the bottleneck worth fixing.
+2. **Build the first useful system.** Ship something tied to time saved, leads recovered, or revenue protected.
+3. **Keep it working.** Maintain and improve systems after the initial build when the partnership is a fit.
 
-## Get in touch
-
-- Website: [epiphanydynamics.ai](https://epiphanydynamics.ai)
-- Email: [patrick@epiphanydynamics.ai](mailto:patrick@epiphanydynamics.ai)
-- Book a call: [epiphanydynamics.ai/book](https://epiphanydynamics.ai/book)
-
-Based in Nashville, TN. Working with clients across the United States and internationally.
+Start with a [free 30-minute AI Operations Audit](https://epiphanydynamics.ai/book).
