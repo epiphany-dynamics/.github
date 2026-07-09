@@ -11,7 +11,7 @@ Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation
 | Project | Business outcome |
 |---|---|
 | [Official Barbecue Champions Registry](https://github.com/epiphany-dynamics/obcr-registry) | A public registry with winner verification, QR codes, automated PDF certificates, Stripe checkout, and print fulfillment. |
-| [Music Exclusive](https://musicexclusive.co) | A fan-subscription platform for musicians: paid superfan tiers, Stripe payments on a concurrency-safe ledger, and watermarked, traceable playback protection. |
+| [Music Exclusive](https://musicexclusive.co) | A client-owned fan-subscription platform we built: paid superfan tiers, Stripe payments on a concurrency-safe ledger, and watermarked, traceable playback protection. |
 | [Epiphany Learn](https://github.com/epiphany-dynamics/epiphany-learn) | An AI education platform for non-engineers: seven gamified modules with quizzes, XP, badges, and certificates. Live at [epiphany.help](https://epiphany.help). |
 
 ## Reusable engineering patterns
