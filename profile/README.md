@@ -1,10 +1,16 @@
-<img src="./assets/github-org-hero.png" alt="Epiphany Dynamics: Production AI systems for businesses that need them to work" width="100%">
-
 # Production AI systems for businesses that need them to work
 
-Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation, and custom business applications for service businesses.
+Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation, custom business applications, and open tools for serious agent work.
 
 [Website](https://epiphanydynamics.ai) · [Free AI Operations Audit](https://epiphanydynamics.ai/book) · [Portfolio](https://epiphanydynamics.ai/portfolio)
+
+## Flagship open source
+
+| Project | What it is |
+|---|---|
+| **[Prime Desktop](https://github.com/epiphany-dynamics/prime-desktop)** | Native **macOS** desktop client for [Prime Agent](https://primeintellect.ai): multi-pane chats, live daemon attach, project folders, Agents panel. Early public build. |
+
+[![Prime Desktop](https://raw.githubusercontent.com/epiphany-dynamics/prime-desktop/main/docs/media/prime-desktop-ui.png)](https://github.com/epiphany-dynamics/prime-desktop)
 
 ## Selected client and production systems
 
@@ -29,6 +35,7 @@ Epiphany Dynamics builds voice agents, lead-capture systems, workflow automation
 - CRM, scheduling, email, SMS, and back-office workflow automation
 - Lead-capture tools, assessments, calculators, and customer portals
 - Production-grade web applications and custom AI agents
+- Open desktop and agent tooling (see **Prime Desktop** above)
 
 ## How we work
 
